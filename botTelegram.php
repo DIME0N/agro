@@ -32,9 +32,9 @@ class FermaDoma
 
     // для соединения с БД
     private $host = 'localhost';
-    private $db = 'dimeon_uniteagro';
-    private $user = 'dimeon_uniteagro';
-    private $pass = 'W3dx5htr';
+    private $db = '';
+    private $user = '';
+    private $pass = '';
     private $charset = 'utf8mb4';
     /**
      * @var PDO
